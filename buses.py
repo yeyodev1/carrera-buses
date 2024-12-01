@@ -24,6 +24,12 @@ END = "\033[0m"
 
 
 
+
+
+
+
+
+
 def buses(n1, n2):
     output = []
     output.append(115 * "-")
